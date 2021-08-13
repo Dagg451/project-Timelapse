@@ -1,2 +1,3 @@
 # project-Timelapse
-Customizable clock and time cycles
+[SPA] Customizable clock and time cycles
+Reloj de ciclo personalizable
